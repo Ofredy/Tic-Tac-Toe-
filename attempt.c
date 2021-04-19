@@ -97,7 +97,6 @@ int main(){
     if( winner == 1 ){
 
         printf("Player%d is The Winner\n",player);
-        printf("FUCK YOU HOE\n");
     
     }
 
